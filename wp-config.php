@@ -21,13 +21,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'arifgit' );
+define( 'DB_NAME', 's_lingering_br' );
 
 /** Database username */
-define( 'DB_USER', 'arifgit' );
+define( 'DB_USER', 'u79_lingering_br' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'lnrJEJLypfmAk7pT6Y92pHeG' );
+define( 'DB_PASSWORD', 'j5gh0Qgz9yiB6a26' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
